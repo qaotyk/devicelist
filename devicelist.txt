@@ -1,0 +1,39 @@
+Motorola
+  ||
+  ||
+  ||
+  List modules kernel
+     ||
+     ||
+     ||     
+     motorola-kernel-modules
+         ||
+         ||
+
+     vendor-cirrus-audio-dlkm
+         ||
+         ||
+
+     vendor-fci-dtvdriver
+         ||
+         ||
+
+     vendor-qcom-opensource-audio-kernel
+         ||
+         ||
+
+     vendor-qcom-opensource-data-kernel
+         ||
+         ||
+
+     vendor-qcom-opensource-wlan-fw-api
+         ||
+         ||
+
+     vendor-qcom-opensource-wlan-qca-wifi-host-cmn
+         ||
+         ||
+
+     vendor-qcom-opensource-wlan-qcacld-3.0
+         ||
+         ||
